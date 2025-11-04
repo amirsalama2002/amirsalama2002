@@ -1,7 +1,7 @@
 <!-- Profile README for Amir Salama Hassan -->
 
 <h1 align="center">Hi 👋, I'm Amir Salama Hassan</h1>
-<h3 align="center">A passionate Junior Full Stack Developer (Laravel & React)</h3>
+<h3 align="center">A passionate Mid-level Full Stack Developer (Laravel & React)</h3>
 
 ---
 
