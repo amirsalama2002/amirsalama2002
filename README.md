@@ -1,12 +1,12 @@
 <!-- Profile README for Amir Salama Hassan -->
 
 <h1 align="center">Hi 👋, I'm Amir Salama Hassan</h1>
-<h3 align="center">A passionate Mid-level Full Stack Developer (Laravel & React)</h3>
+<h3 align="center">A passionate Full Stack Developer (Laravel & React)</h3>
 
 ---
 
 ### 🌟 About Me
-- 💻 I'm a **Mid-Level Laravel & React Developer**
+- 💻 I'm a **Laravel & React Developer**
 - 🌱 Currently improving my skills in **API integration, authentication, and full-stack architecture**
 - 👯 I love building clean UI and powerful backend logic
 - 📫 Reach me at **hamirsalama@gmail.com**
