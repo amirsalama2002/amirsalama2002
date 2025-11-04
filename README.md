@@ -1,7 +1,14 @@
 <!-- Amir Salama Hassan | Full Stack Developer -->
 
-<h1 align="center">👋 Hi, I'm Amir Salama Hassan</h1>
-<h3 align="center">💻 Full Stack Developer (Laravel | React.js)</h3>
+<!-- 🔹 Animated Welcome Message -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+Hi+there!;Welcome+to+my+GitHub+Profile!;I'm+Amir+Salama+Hassan+💻;Full+Stack+Developer+(Laravel+|+React.js)" alt="Typing SVG" />
+</p>
+
+---
+
+<h1 align="center">👨‍💻 Amir Salama Hassan</h1>
+<h3 align="center">💼 Full Stack Developer (Laravel | React.js)</h3>
 
 <p align="center">
   📍 Cairo, Egypt • ✉️ <a href="mailto:hamirsalama@gmail.com">hamirsalama@gmail.com</a> • 
@@ -12,12 +19,12 @@
 ---
 
 ### 🧠 About Me
-I'm a **Full Stack Developer** with 2+ years of experience building modern, scalable web apps using **Laravel** and **React.js**.  
-I’m passionate about creating clean, maintainable code and delivering smooth user experiences.
+I'm a **Full Stack Developer** with 2+ years of experience building modern, scalable web applications using **Laravel** and **React.js**.  
+I’m passionate about clean code, strong architecture, and crafting engaging user experiences.
 
-- 🚀 10+ completed projects (E-commerce, Real Estate, Multi-language systems)
-- 🧩 Strong in API design, optimization, and frontend integration
-- 🎯 Currently improving backend performance and DevOps automation
+- 🚀 10+ Completed Projects (E-commerce, Real Estate, Multi-language Platforms)
+- 🧩 Strong in API Design, Performance Optimization, and Frontend Integration
+- 🎯 Currently improving in backend scaling and microservice architecture
 
 ---
 
@@ -37,15 +44,15 @@ I’m passionate about creating clean, maintainable code and delivering smooth u
 
 #### 🧩 Full Stack Developer | Hash Studio
 📅 Mar 2025 – Oct 2025  
-- Developed and deployed 3+ full-stack applications (Laravel, React, TailwindCSS)  
-- Implemented JWT authentication & API integrations  
-- Collaborated with UI/UX designers for responsive layouts  
+- Developed and deployed 3+ full-stack applications (Laravel, React, TailwindCSS).  
+- Implemented JWT authentication & integrated third-party APIs.  
+- Collaborated with designers to deliver high-quality, responsive layouts.
 
 #### ⚙️ Back-End Developer (PHP / Laravel) | AqarMap
 📅 Jan 2024 – Feb 2025  
-- Improved backend performance by 30% using caching & query optimization  
-- Built RESTful APIs and integrated multiple frontend modules  
-- Enhanced user experience by reducing response times by 20%  
+- Improved backend performance by 30% via caching & query optimization.  
+- Built RESTful APIs used across multiple frontend modules.  
+- Delivered 20% faster user experience through backend enhancements.
 
 ---
 
@@ -53,11 +60,11 @@ I’m passionate about creating clean, maintainable code and delivering smooth u
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [🛒 E-commerce App](https://github.com/amirsalama2002/my-laravel-app-ecommerce) | Full Stack app with Laravel + React | Laravel, React, MySQL |
-| [🏠 Real Estate Backend](https://github.com/amirsalama2002/Real-estate-Backend) | RESTful APIs for property listing, filters & authentication | Laravel |
-| [📚 DevDocs Language](https://devdocs-language.netlify.app) | Developer docs hub for Laravel, React, and PHP | React, Tailwind |
-| [🕌 Nidaa El-Samma](https://nidaa-el-samma.netlify.app) | Islamic web app with Quran audio & prayer times | React, Tailwind |
-| [🌍 Spandex](https://spandex.netlify.app) | Multilingual web app (supports 11 languages) | React, i18next |
+| [🛒 E-commerce App](https://github.com/amirsalama2002/my-laravel-app-ecommerce) | Full Stack Laravel + React e-commerce app | Laravel, React, MySQL |
+| [🏠 Real Estate Backend](https://github.com/amirsalama2002/Real-estate-Backend) | Property listing APIs, search filters, authentication | Laravel |
+| [📚 DevDocs Language](https://devdocs-language.netlify.app) | Dev documentation hub for multiple frameworks | React, Tailwind |
+| [🕌 Nidaa El-Samma](https://nidaa-el-samma.netlify.app) | Islamic app with Quran audio & prayer times | React, Tailwind |
+| [🌍 Spandex](https://spandex.netlify.app) | Multilingual web app (11 languages) | React, i18next |
 
 ---
 
