@@ -48,8 +48,37 @@ A simple CRUD system built with Laravel to manage products.
 ---
 
 ### 🧠 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsalama2002&layout=compact&theme=tokyonight"/>
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
+  <!-- Bootstrap -->
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  
+  <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  
+  <!-- React.js -->
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  
+  <!-- PHP -->
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+  <!-- Laravel -->
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  
+  <!-- RESTful APIs -->
+  <img src="https://img.shields.io/badge/RESTful%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
 
 ---
