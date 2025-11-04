@@ -1,41 +1,63 @@
-<!-- Profile README for Amir Salama Hassan -->
+<!-- Amir Salama Hassan | Full Stack Developer -->
 
-<h1 align="center">Hi 👋, I'm Amir Salama Hassan</h1>
-<h3 align="center">A passionate Junior Full Stack Developer (Laravel & React)</h3>
+<h1 align="center">👋 Hi, I'm Amir Salama Hassan</h1>
+<h3 align="center">💻 Full Stack Developer (Laravel | React.js)</h3>
 
----
-
-### 🌟 About Me
-- 💻 I'm a **Junior Laravel & React Developer**
-- 🌱 Currently improving my skills in **API integration, authentication, and full-stack architecture**
-- 👯 I love building clean UI and powerful backend logic
-- 📫 Reach me at **hamirsalama@gmail.com**
-- ⚡ Fun fact: I enjoy learning by building real-world projects!
+<p align="center">
+  📍 Cairo, Egypt • ✉️ <a href="mailto:hamirsalama@gmail.com">hamirsalama@gmail.com</a> • 
+  🌐 <a href="https://amir-salama.netlify.app" target="_blank">amir-salama.netlify.app</a> • 
+  💼 <a href="https://linkedin.com/in/amir-hassan-7b3408289" target="_blank">LinkedIn</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧠 About Me
+I'm a **Full Stack Developer** with 2+ years of experience building modern, scalable web apps using **Laravel** and **React.js**.  
+I’m passionate about creating clean, maintainable code and delivering smooth user experiences.
+
+- 🚀 10+ completed projects (E-commerce, Real Estate, Multi-language systems)
+- 🧩 Strong in API design, optimization, and frontend integration
+- 🎯 Currently improving backend performance and DevOps automation
+
+---
+
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
+
+---
+
+### 💼 Experience
+
+#### 🧩 Full Stack Developer | Hash Studio
+📅 Mar 2025 – Oct 2025  
+- Developed and deployed 3+ full-stack applications (Laravel, React, TailwindCSS)  
+- Implemented JWT authentication & API integrations  
+- Collaborated with UI/UX designers for responsive layouts  
+
+#### ⚙️ Back-End Developer (PHP / Laravel) | AqarMap
+📅 Jan 2024 – Feb 2025  
+- Improved backend performance by 30% using caching & query optimization  
+- Built RESTful APIs and integrated multiple frontend modules  
+- Enhanced user experience by reducing response times by 20%  
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🛒 [React E-commerce App](https://github.com/amirsalama2002/my-app-reactjs-ecommerse)
-A modern e-commerce front-end built with ReactJS and TailwindCSS.
-
-#### 💼 [Portfolio Website](https://github.com/amirsalama2002/my-portfolio-app)
-My personal portfolio showcasing my skills, projects, and contact info.
-
-#### ➕ [Add New Product - Laravel](https://github.com/amirsalama2002/Add-New-Product-Laravel)
-A simple CRUD system built with Laravel to manage products.
+| Project | Description | Tech |
+|----------|--------------|------|
+| [🛒 E-commerce App](https://github.com/amirsalama2002/my-laravel-app-ecommerce) | Full Stack app with Laravel + React | Laravel, React, MySQL |
+| [🏠 Real Estate Backend](https://github.com/amirsalama2002/Real-estate-Backend) | RESTful APIs for property listing, filters & authentication | Laravel |
+| [📚 DevDocs Language](https://devdocs-language.netlify.app) | Developer docs hub for Laravel, React, and PHP | React, Tailwind |
+| [🕌 Nidaa El-Samma](https://nidaa-el-samma.netlify.app) | Islamic web app with Quran audio & prayer times | React, Tailwind |
+| [🌍 Spandex](https://spandex.netlify.app) | Multilingual web app (supports 11 languages) | React, i18next |
 
 ---
 
@@ -54,16 +76,19 @@ A simple CRUD system built with Laravel to manage products.
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/amir-salama-7b3408289">
+  <a href="https://linkedin.com/in/amir-hassan-7b3408289" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hamirsalama@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://amir-salama.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">💼 <b>Let's build something great together!</b></p>
+<p align="center">💡 <b>“Building modern web apps with Laravel & React — one project at a time.”</b></p>
